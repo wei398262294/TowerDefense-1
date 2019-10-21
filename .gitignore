@@ -3,10 +3,10 @@
 *.exe
 
 # Unity folders
-#/Unity/CP2680_TowerDefense/[Ll]ibrary/
-/Unity/CP2680_TowerDefense/[Ll]ibrary/metadata
-/Unity/CP2680_TowerDefense/[Ll]ibrary/PackageCache
-/Unity/CP2680_TowerDefense/[Ll]ibrary/ShaderCache
+/Unity/CP2680_TowerDefense/[Ll]ibrary/
+#/Unity/CP2680_TowerDefense/[Ll]ibrary/metadata
+#/Unity/CP2680_TowerDefense/[Ll]ibrary/PackageCache
+#/Unity/CP2680_TowerDefense/[Ll]ibrary/ShaderCache
 /Unity/CP2680_TowerDefense/[Tt]emp/
 /Unity/CP2680_TowerDefense/[Oo]bj/
 /Unity/CP2680_TowerDefense/[Bb]uild/
