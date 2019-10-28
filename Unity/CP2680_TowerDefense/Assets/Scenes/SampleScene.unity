@@ -398,6 +398,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canyon
       objectReference: {fileID: 0}
+    - target: {fileID: -7053843790720781452, guid: 9312eb67ddefdd44aaaca4562f8c4780,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 54b6786d18f87974d981de3075226045, type: 2}
+    - target: {fileID: -4735064939027224939, guid: 9312eb67ddefdd44aaaca4562f8c4780,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6376489ddb9b46f4782c280a68ab53a0, type: 2}
     - target: {fileID: -4216859302048453862, guid: 9312eb67ddefdd44aaaca4562f8c4780,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -453,5 +463,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -336718177812795826, guid: 9312eb67ddefdd44aaaca4562f8c4780,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 615cfef5f975bab458fd366e90a6435a, type: 2}
+    - target: {fileID: 4810020258743022488, guid: 9312eb67ddefdd44aaaca4562f8c4780,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f1d33cdff028f6745b5ef0650176d310, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9312eb67ddefdd44aaaca4562f8c4780, type: 3}
