@@ -13,31 +13,6 @@
 /Unity/CP2680_TowerDefense/[Bb]uilds/
 #/Unity/CP2680_TowerDefense/Assets/AssetStoreTools*
 
-/Unity/CP2680_TowerDefense/[Ll]ibrary/metadata
-/Unity/CP2680_TowerDefense/[Ll]ibrary/previews
-/Unity/CP2680_TowerDefense/[Ll]ibrary/ScriptAssemblies
-/Unity/CP2680_TowerDefense/[Ll]ibrary/assetDatabase3
-/Unity/CP2680_TowerDefense/[Ll]ibrary/AssetImportState
-/Unity/CP2680_TowerDefense/[Ll]ibrary/assetservercachev3
-/Unity/CP2680_TowerDefense/[Ll]ibrary/AssetServerCacheV3
-/Unity/CP2680_TowerDefense/[Ll]ibrary/AssetVersioning.db
-/Unity/CP2680_TowerDefense/[Ll]ibrary/AudioManager.asset
-/Unity/CP2680_TowerDefense/[Ll]ibrary/BuildPlayer.prefs
-/Unity/CP2680_TowerDefense/[Ll]ibrary/BuildSettings.asset
-/Unity/CP2680_TowerDefense/[Ll]ibrary/DynamicsManager.asset
-/Unity/CP2680_TowerDefense/[Ll]ibrary/EditorSettings.asset
-/Unity/CP2680_TowerDefense/[Ll]ibrary/EditorUserBuildSettings.asset
-/Unity/CP2680_TowerDefense/[Ll]ibrary/expandedItems
-/Unity/CP2680_TowerDefense/[Ll]ibrary/FailedAssetImports.txt
-/Unity/CP2680_TowerDefense/[Ll]ibrary/guidmapper
-/Unity/CP2680_TowerDefense/[Ll]ibrary/InspectorExpandedItems.asset
-/Unity/CP2680_TowerDefense/[Ll]ibrary/MonoManager.asset
-/Unity/CP2680_TowerDefense/[Ll]ibrary/NetworkManager.asset
-/Unity/CP2680_TowerDefense/[Ll]ibrary/ScriptMapper
-/Unity/CP2680_TowerDefense/[Ll]ibrary/unity default resources
-/Unity/CP2680_TowerDefense/[Ll]ibrary/unity editor resources
-
-
 *.log
 
 !/Unity/CP2680_TowerDefense/[Aa]ssets/**/*.meta
@@ -72,3 +47,4 @@ sysinfo.txt
 *.apk
 *.unitypackage
 *.dll
+
