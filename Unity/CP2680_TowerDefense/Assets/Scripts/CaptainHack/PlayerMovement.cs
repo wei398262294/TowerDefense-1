@@ -8,28 +8,28 @@ public class PlayerMovement : MonoBehaviour
 
     public float speed = 2.0f;
 
-    // Start is called before the first frame update
+
     void Start()
     {
         rb = GetComponent<Rigidbody>();
-        rb.freezeRotation = true;
+        rb.freezeRotation = false;
 
     }
 
-    // Update is called once per frame
+   
     void Update()
     {
-        if (Input.GetKey(KeyCode.RightArrow))
+        if (Input.GetKey(KeyCode.A))
         {
             rb.velocity = transform.up * speed;
         }
 
-        if (Input.GetKey(KeyCode.LeftArrow))
+        if (Input.GetKey(KeyCode.D))
         {
             rb.velocity = -transform.up * speed;
         }
 
-        if (Input.GetKey(KeyCode.UpArrow))
+        if (Input.GetKey(KeyCode.W))
         {   
             rb.velocity = transform.right * speed;
 //            transform.Rotate(0, Input.GetAxis("Horizontal") * Time.deltaTime * rotationSpeed, 0);
@@ -37,7 +37,7 @@ public class PlayerMovement : MonoBehaviour
 
         }
 
-        if (Input.GetKey(KeyCode.DownArrow))
+        if (Input.GetKey(KeyCode.S))
         {
             rb.velocity = -transform.right * speed;
         }
@@ -47,5 +47,6 @@ public class PlayerMovement : MonoBehaviour
             rb.velocity = transform.forward * speed;
         }
 
+       
     }
 }
